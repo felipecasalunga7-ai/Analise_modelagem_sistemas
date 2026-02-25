@@ -1,2 +1,5 @@
 # Analise_modelagem_sistemas
-trabalho da materia analise e modelagem de sistemas 
+Aluno: Felipe Casalunga
+Curso: Analise e modelagem de Sistemas
+Faculdade: Anhanguera
+Professor: Nicolas
